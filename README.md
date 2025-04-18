@@ -84,8 +84,3 @@ files.upload()  # Upload your kaggle.json file
 - Deploy using Flask/Streamlit
 - Integrate with real-time news feeds
 
----
-
-## 🧑‍💻 Author
-
-*This project is part of an NLP practice series using publicly available datasets.*
