@@ -84,3 +84,10 @@ files.upload()  # Upload your kaggle.json file
 - Deploy using Flask/Streamlit
 - Integrate with real-time news feeds
 
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE) © 2024 Pujah Balasubramaniam.
+
+---
